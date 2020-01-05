@@ -2,6 +2,8 @@
 
 Tmux config file and plugins.
 
+See .tmux.config's comments for additional information
+
 ### Installation
 
 1. Clone this repository
